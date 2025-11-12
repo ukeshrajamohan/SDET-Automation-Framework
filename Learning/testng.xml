@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HARINI/IdeaProjects/Learning/src/test/Java/org/example/Automation/Demo/Basics/SeleniumBasics/Day3/annotationOpenBrowser.java">
+        <classes><class name="org.example.Automation.Demo.Basics.SeleniumBasics.Day3.annotationOpenBrowser">
+            <methods><include name="loginWithValidCredentials"/>
+            </methods>
+        </class></classes></test></suite>
